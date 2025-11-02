@@ -55,7 +55,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Quality Assurance and DevOps Intern',
     start: 'Mar. 2025',
     end: 'Aug. 2025',
-    link: '',
+    link: 'https://kifiya.com/',
     id: 'work3',
   },
   {
@@ -63,12 +63,12 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'AI Chatbot Developer',
     start: 'Mar. 2025',
     end: 'July. 2025',
-    link: '',
+    link: 'https://www.stockmarket.et/',
     id: 'work4',
   },
   {
-    company: 'EfuyeGela Tech Consultants',
-    title: 'Full Stack Web Developer',
+    company: 'EfuyeGela Tech Consultants ',
+    title: 'Full Stack Web Developer Intern',
     start: 'Jun. 2025',
     end: 'Sep. 2025',
     link: '',
@@ -79,7 +79,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     title: 'Full Stack Web Developer',
     start: 'Jun. 2025',
     end: 'Present',
-    link: '',
+    link: 'https://tenamart.et/',
     id: 'work6',
   },
 ];
