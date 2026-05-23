@@ -52,7 +52,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'Kifiya FinTech',
-    title: 'Quality Assurance and DevOps Intern',
+    title: 'Quality Assurance and DevOps ',
     start: 'Mar. 2025',
     end: 'Aug. 2025',
     link: 'https://kifiya.com/',
@@ -68,7 +68,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'EfuyeGela Tech Consultants ',
-    title: 'Full Stack Web Developer Intern',
+    title: 'Full Stack Web Developer',
     start: 'Jun. 2025',
     end: 'Sep. 2025',
     link: '',
@@ -78,8 +78,16 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     company: 'TenaMart',
     title: 'Full Stack Web Developer',
     start: 'Jun. 2025',
-    end: 'Present',
+    end: 'Feb. 2026',
     link: 'https://tenamart.et/',
+    id: 'work6',
+  },
+  {
+    company: 'Lersha Green Agro',
+    title: 'Full Stack ',
+    start: 'Mar.2026',
+    end: 'Present',
+    link: 'https://lersha.com/',
     id: 'work6',
   },
 ];
