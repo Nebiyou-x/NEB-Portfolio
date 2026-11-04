@@ -29,12 +29,12 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Ethiopian Premier League Agent',
+    name: 'Multi-Agent Execution Platform',
     description:
-      'Predicted Ethiopian Premier League match winners with 82 percent precision using team momentum features',
-    link: 'https://github.com/Nebiyou-x/Epl-machine-learning',
+      'A production-ready system for autonomous agent execution with sandboxed code execution, execution tracing, and comprehensive reporting. Agents plan complex tasks, execute code in isolated Docker containers, and generate artifacts—all with complete visibility into every step',
+    link: 'https://github.com/Nebiyou-x/Multi-Agent',
     video:
-      'https://github.com/Nebiyou-x/Epl-machine-learning',
+      'https://github.com/Nebiyou-x/Multi-Agent',
     id: 'project1',
   },
   
@@ -84,7 +84,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'Lersha Green Agro',
-    title: 'Full Stack ',
+    title: 'Full Stack AI Developer ',
     start: 'Mar.2026',
     end: 'Present',
     link: 'https://lersha.com/',
